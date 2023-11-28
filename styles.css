@@ -16,6 +16,7 @@ body{
 
 }
 form{
+	background:rgb(255, 255, 255);
 	display:flex;
 	width:300px;
 	background:white;
